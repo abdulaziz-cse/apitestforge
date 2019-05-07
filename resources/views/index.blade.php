@@ -117,7 +117,7 @@
 
           <div class="col-lg-5 col-md-6">
             <div class="about-img">
-              <img src="img/logn1.jpg" alt="">
+              <img src="img/smalllogo.png" alt="">
             </div>
           </div>
 

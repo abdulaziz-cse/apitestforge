@@ -428,7 +428,7 @@ h6 {
 
 .mobile-nav-toggle {
   position: fixed;
-  right: 0;
+  left: 0;
   top: 0;
   z-index: 9998;
   border: 0;
@@ -439,7 +439,6 @@ h6 {
   line-height: 1;
   cursor: pointer;
   text-align: left;
-  left:100px;
 }
 
 .mobile-nav-toggle i {
