@@ -15,6 +15,7 @@
 
   <!-- Bootstrap CSS File -->
   <link rel="stylesheet" href="https://cdn.rtlcss.com/bootstrap/v4.2.1/css/bootstrap.min.css" integrity="sha384-vus3nQHTD+5mpDiZ4rkEPlnkcyTP+49BhJ4wJeJunw06ZAp+wzzeBPUXr42fi8If" crossorigin="anonymous">
+  <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
 
   <!-- Libraries CSS Files -->
@@ -28,7 +29,6 @@
 
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   <!-- Main Stylesheet File -->
-  <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
 
 </head>
@@ -742,10 +742,6 @@
 
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
-
-
-<script src="js/index.js"></script>
-
 
 
   <script src="lib/jquery/jquery-migrate.min.js"></script>
