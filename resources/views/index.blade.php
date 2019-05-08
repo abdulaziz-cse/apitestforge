@@ -152,7 +152,7 @@
 
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
-              <div class="icon" style="background: #fceef3;">  <i class="fas fa-smile-beam"></i> </div>
+              <div class="icon" style="background: #fceef3;">  <i class="fas fa-syringe"></i> </div>
               <h4 class="title"><a href="#E">قسم ليزر </a></h4>
               <p class="description"></p>
             </div>
@@ -170,7 +170,7 @@
 
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
-              <div class="icon" style="background: #e6fdfc;"><i class="fas fa-feather-alt"></i></div>
+              <div class="icon" style="background: #e6fdfc;"><i class="fas fa-seedling"></i></div>
               <h4 class="title"><a href="#B">قسم جلدية </a></h4>
               <p class="description"></p>
             </div>
@@ -185,8 +185,7 @@
 
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <div class="box">
-              <div class="icon" style="background: #e1eeff;"> <i class="fas fa-hands"></i>
-              </div>
+              <div class="icon" style="background: #e1eeff;"><i class="fas fa-heart"></i></div>
 
               <h4 class="title"><a href="#C">قسم طب أسرة </a></h4>
               <p class="description"></p>
