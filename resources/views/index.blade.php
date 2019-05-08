@@ -153,7 +153,7 @@
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #fceef3;">  <i class="fas fa-smile-beam"></i> </div>
-              <h4 class="title"><a href="">قسم ليزر </a></h4>
+              <h4 class="title"><a href="#E">قسم ليزر </a></h4>
               <p class="description"></p>
             </div>
           </div>
@@ -161,7 +161,7 @@
             <div class="box">
               <div class="icon" style="background: #fff0da;"><i class="fas fa-tooth" tyle="color: #e98e06;"></i>
               </div>
-              <h4 class="title"><a href="">قسم أسنان </a></h4>
+              <h4 class="title"><a href="#w">قسم أسنان </a></h4>
               <p class="description">
 
               </p>
@@ -171,14 +171,14 @@
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #e6fdfc;"><i class="fas fa-feather-alt"></i></div>
-              <h4 class="title"><a href="">قسم جلدية </a></h4>
+              <h4 class="title"><a href="#B">قسم جلدية </a></h4>
               <p class="description"></p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #eafde7;"><i class="fas fa-smile-beam"></i> </div>
-              <h4 class="title"><a href="">قسم تجميل  </a></h4>
+              <h4 class="title"><a href="#D">قسم تجميل  </a></h4>
               <p class="description"></p>
             </div>
           </div>
@@ -188,7 +188,7 @@
               <div class="icon" style="background: #e1eeff;"> <i class="fas fa-hands"></i>
               </div>
 
-              <h4 class="title"><a href="">قسم طب أسرة </a></h4>
+              <h4 class="title"><a href="#C">قسم طب أسرة </a></h4>
               <p class="description"></p>
             </div>
           </div>
@@ -224,6 +224,7 @@
               <p>
               </p>
 
+              <section id="A">
               <div class="features wow bounceInUp clearfix">
                  <h4> أسنان  </h4>
                 <p> في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل </p>
@@ -293,6 +294,8 @@
 
 
             </div>
+              </section>
+              <section id="B">
 
               <div class="features wow bounceInUp clearfix">
                 <h4> جلدية </h4>
@@ -336,9 +339,9 @@
                     </ul>
 
               </div>
+              </section>
 
-
-
+              <section id="C">
               <div class="features wow bounceInUp clearfix">
                   <h4> طب الاسرة </h4>
                   <p>
@@ -347,7 +350,7 @@
                   </p>
                 </div>
 
-
+              </section>
 
 
             </div>
@@ -413,6 +416,8 @@
           <div class="col-lg-6 wow fadeInUp">
             <img src="img/smalllogo.png" class="img-fluid" alt="">
           </div>
+
+          <section id="D">
           <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
             <h4>  التجميل   </h4>
 
@@ -456,7 +461,10 @@
             </p>
 
           </div>
+          </section>
         </div>
+
+        <section id="E">
 
         <div class="row feature-item mt-5 pt-5">
           <div class="col-lg-6 wow fadeInUp order-1 order-lg-2">
@@ -476,7 +484,7 @@
           </div>
 
         </div>
-
+        </section>
       </div>
     </section><!-- #about -->
 
