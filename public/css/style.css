@@ -37,7 +37,7 @@ h4,
 h5,
 h6 {
   font-family:myFirstFont;
-  font-weight: 400;
+  font-weight: 200;
   margin: 0 0 20px 0;
   padding: 0;
 }
@@ -172,7 +172,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-pages {
-  height: 92px;
+  height: 75px;
   padding: 17px 0;
   background-color: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
@@ -429,7 +429,7 @@ h6 {
 .mobile-nav-toggle {
   position: fixed;
   left: 0;
-  top: 0;
+  top: 11px;
   z-index: 9998;
   border: 0;
   background: none;
@@ -479,9 +479,9 @@ h6 {
 
 .section-header h3 {
   font-size: 36px;
-  color: #413e66;
+  color: #cc9933;
   text-align: center;
-  font-weight: 700;
+  font-weight: 500;
   position: relative;
   font-family:myFirstFont;
 }
@@ -514,16 +514,16 @@ h6 {
 }
 
 #about .about-content h2 {
-  color: #333333;
+  color: #cc9933;
   font-family:myFirstFont;
   font-weight: 700;
 }
 
 #about .about-content h3 {
-  color: #cf9535;
+  color: #000000;
   font-weight: 400;
-  font-size: 22px;
-  font-style: italic;
+  font-size: 20px;
+  text-indent: 110px;
 }
 
 #about .about-content ul {
@@ -664,14 +664,14 @@ h6 {
   font-size: 24px;
   font-weight: 600;
   margin-left: 56px;
-  color: #413e66;
   margin-bottom: 5px;
 }
+
 
 #why-us .why-us-content .features p {
   font-size: 16px;
   margin-left: 56px;
-  color: #555186;
+  color: #cc9933;
 }
 
 #why-us .counters {
@@ -768,6 +768,7 @@ h6 {
   color: #413e66;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
+
 }
 
 #portfolio #portfolio-flters li:hover,
@@ -1224,6 +1225,7 @@ h6 {
   padding: 0 0 30px 0;
   font-size: 14px;
   background: #fff;
+
 }
 
 #footer .footer-top {
@@ -1311,10 +1313,12 @@ h6 {
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
+
 }
 
 #footer .footer-top .footer-contact p {
   line-height: 26px;
+
 }
 
 #footer .footer-top .footer-newsletter {
@@ -1337,6 +1341,7 @@ h6 {
   color: #fff;
   transition: 0.3s;
   cursor: pointer;
+
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
@@ -1345,13 +1350,14 @@ h6 {
 
 #footer .footer-top .form .form-group {
   margin-bottom: 15px;
+
 }
 
 #footer .footer-top .form #sendmessage {
   color: #fff;
   background: #1bb1dc;
   display: none;
-  text-align: center;
+  text-align: right;
   padding: 15px;
   font-weight: 600;
   margin-bottom: 15px;
@@ -1384,6 +1390,7 @@ h6 {
 #footer .footer-top .form label {
   color: #413e66;
   font-weight: 500;
+
 }
 
 #footer .footer-top .form input,
@@ -1392,6 +1399,8 @@ h6 {
   box-shadow: none;
   border: 1px solid #dce1ec;
   font-size: 14px;
+  text-align: right;
+
 }
 
 #footer .footer-top .form input::-webkit-input-placeholder,

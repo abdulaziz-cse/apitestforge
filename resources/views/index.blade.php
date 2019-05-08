@@ -69,9 +69,10 @@
 
           <li><a href="#footer">اتصل بنا</a></li>
           <li><a href="">حجز موعد </a></li>
-          <li><a href="#features">التوظيف</a></li>
+          <li><a href=""> التوظيف </a></li>
           <li><a href="#faq"> الاسئلة  الشائعة </a></li>
           <li><a href="#testimonials">معلومات طبية</a></li>
+          <li><a href="#features">معلومات عن الاقسام</a></li>
           <li><a href="#services">الاقسام الطبية</a></li>
           <li><a href="#about">حول المركز</a></li>
           <li class="active"><a href="#intro">الرئسية</a></li>
@@ -124,7 +125,7 @@
           <div class="col-lg-7 col-md-6">
             <div class="about-content">
               <h2>حول المركز  ؟ </h2>
-              <h3> يعد المركز الرياض الطبي منظومة متكاملة، حيث يضم مراكز تخصصية توفر خيارات الرعاية الصحية والتأهيلية. ويتشرف فريقنا الطبي بتقديم الخدمات الصحية على أيدي أطباً من الحاصلين على أرقى الدرجات العلمية  في أكثر من  تخصصاً. </h3>
+              <h3> يعد المركز الرياض الطبي منظومة متكاملة، حيث يضم مراكز تخصصية توفر خيارات الرعاية الصحية والتأهيلية. ويتشرف فريقنا الطبي بتقديم الخدمات الصحية على أيدي أطباً من الحاصلين على أرقى الدرجات العلمية  في أكثر من  تخصصاً </h3>
               <p> </p>
               <p>  </p>
 
@@ -144,7 +145,7 @@
 
         <header class="section-header">
           <h3>الأقسام الطبية </h3>
-          <p>.</p>
+          <p></p>
         </header>
 
         <div class="row">
@@ -152,7 +153,7 @@
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #fceef3;">  <i class="fas fa-smile-beam"></i> </div>
-              <h4 class="title"><a href="">قسم الليزر </a></h4>
+              <h4 class="title"><a href="">قسم ليزر </a></h4>
               <p class="description"></p>
             </div>
           </div>
@@ -160,22 +161,24 @@
             <div class="box">
               <div class="icon" style="background: #fff0da;"><i class="fas fa-tooth" tyle="color: #e98e06;"></i>
               </div>
-              <h4 class="title"><a href="">قسم الاسنان </a></h4>
-              <p class="description"></p>
+              <h4 class="title"><a href="">قسم أسنان </a></h4>
+              <p class="description">
+
+              </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #e6fdfc;"><i class="fas fa-feather-alt"></i></div>
-              <h4 class="title"><a href="">قسم الجلدية </a></h4>
+              <h4 class="title"><a href="">قسم جلدية </a></h4>
               <p class="description"></p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
-              <div class="icon" style="background: #eafde7;"><i class="fas fa-hamburger"></i></div>
-              <h4 class="title"><a href="">قسم التغذية </a></h4>
+              <div class="icon" style="background: #eafde7;"><i class="fas fa-smile-beam"></i> </div>
+              <h4 class="title"><a href="">قسم تجميل  </a></h4>
               <p class="description"></p>
             </div>
           </div>
@@ -185,7 +188,7 @@
               <div class="icon" style="background: #e1eeff;"> <i class="fas fa-hands"></i>
               </div>
 
-              <h4 class="title"><a href="">قسم طب الأسرة </a></h4>
+              <h4 class="title"><a href="">قسم طب أسرة </a></h4>
               <p class="description"></p>
             </div>
           </div>
@@ -211,7 +214,7 @@
 
           <div class="col-lg-6">
             <div class="why-us-img">
-              <img src="img/why-us.jpg" alt="" class="img-fluid">
+              <img src="img/smalllogo.png" alt="" class="img-fluid">
             </div>
           </div>
 
@@ -219,47 +222,133 @@
             <div class="why-us-content">
 
               <p>
-                .....
               </p>
 
               <div class="features wow bounceInUp clearfix">
-                  <i class="fas fa-tooth"></i>
                  <h4> أسنان  </h4>
-                <p> </p>
-              </div>
+                <p> في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل </p>
+
+
+                <ul>
+                    <li>
+                            	اشعة اسنان
+                    </li>
+
+                </ul>
+
+                <ul>
+                    <li>
+                            	تبطين طقم اسنان كامل
+                    </li>
+
+                </ul>
+
+                <ul>
+                    <li>
+                            	علاج اللثة
+                    </li>
+
+                </ul>
+
+                <ul>
+                    <li>
+                            	حافظ مسافة جهة واحدة
+                    </li>
+                </ul>
+
+                <ul>
+                    <li>
+                            	طقم اسنان كامل ( علوي – سفلي)
+                    </li>
+                </ul>
+
+                <ul>
+
+                    <li>
+                            	تلبيسة بلاستيك امامي
+                    </li>
+                            </ul>
+
+                            <ul>
+                    <li>
+                            	فنير المشاهير
+                    </li>
+                </ul>
+
+                <ul>
+                    <li>
+                            	تنظيف الجير
+                    </li>
+                </ul>
+
+                <ul>
+                    <li>
+                            	تبييض اسنان بجهاز Z6 دورتين
+                    </li>
+
+                </ul>
+
+
+
+
+
+            </div>
 
               <div class="features wow bounceInUp clearfix">
-                  <i class="fas fa-hands"></i>
                 <h4> جلدية </h4>
-                <p> </p>
+                <p> يقدم لكم مركز الرياض الطبي فريق عمل متكامل من الاطباء والأخصائيين والاستشاريين المتميزين في عيادات الجلدية والتي تحتوي على الخدمات التالية </p>
+
+
+                        <ul>
+                        <li>
+                        إزالة الزوائد الجلدية – الثاليل
+                         </li>
+                        </ul>
+
+                        <ul>
+                        <li>
+                                    الاكزيما البنيويه
+                       </li>
+                        </ul>
+
+                        <ul>
+                        <li>
+                              علاج اللثة
+                        </li>
+                        </ul>
+
+                        <ul>
+                        <li>
+                                    الثاليل التناسليه
+                        </li>
+                        </ul>
+
+                        <ul>
+                        <li>
+                                الطفح الجلدي
+                       </li>
+                        </ul>
+
+                     <ul>
+                      <li>
+                                         تساقط الشعر
+                      </li>
+                    </ul>
+
               </div>
 
 
 
               <div class="features wow bounceInUp clearfix">
-                  <i class="fas fa-hands"></i>
                   <h4> طب الاسرة </h4>
-                  <p></p>
+                  <p>
+
+                        عيادة التغذية بمركز الرياض الطبي تضم أفضل أخصائيين التغذية الذين يعملون على تنظيم الغذاء للمريض وإجراء قياسات شاملة بواسطة أجهزة متخصصة لتحديد المشكلة الغذائية وبناء الخطة الغذائية المخصصة لكل فرد
+                  </p>
                 </div>
 
-                <div class="features wow bounceInUp clearfix">
-                    <i class="fas fa-hamburger"></i>
-                    <h4> التغذية  </h4>
-                    <p></p>
-                  </div>
 
-                  <div class="features wow bounceInUp clearfix">
-                      <i class="fas fa-smile-beam"></i>
 
-                      <h4> الليزر   </h4>
-                      <p></p>
-                    </div>
-
-                    <div class="features wow bounceInUp clearfix">
-                        <i class="fas fa-first-aid"></i>
-                         <h4> صيدلية </h4>
-                        <p></p>
-                      </div>
 
             </div>
 
@@ -320,21 +409,49 @@
     ============================-->
     <section id="features">
       <div class="container">
-
         <div class="row feature-item">
           <div class="col-lg-6 wow fadeInUp">
-            <img src="img/features-1.svg" class="img-fluid" alt="">
+            <img src="img/smalllogo.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
-            <h4> الوظائف لدى المركز  </h4>
+            <h4>  التجميل   </h4>
 
 
             <p>
+                    في هذا القسم يتم تقديم خدمات في مجال طب التجميل لجميع افراد المجتمع على ايدي أمهر الأطباء والممرضين مثل
 
               <ul>
                 <li>
+                            حقن فيلر
+                </li>
+              </ul>
+              <ul>
+                <li>
+                            حقن بوتوكس
 
                 </li>
+            </ul>
+
+            <ul>
+                <li>
+                           تقنية البلازما للوجه
+                </li>
+            </ul>
+<ul>
+                <li>
+                            الديرما رولر
+                </li>
+            </ul>
+<ul>
+                <li>
+                            حقنة التفتيح
+
+                </li>
+            </ul>
+<ul>
+                <li>
+                            جلسة تقشير الوجه
+               </li>
               </ul>
             </p>
 
@@ -343,15 +460,18 @@
 
         <div class="row feature-item mt-5 pt-5">
           <div class="col-lg-6 wow fadeInUp order-1 order-lg-2">
-            <img src="img/job.svg" class="img-fluid" alt="">
+            <img src="img/smalllogo.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-            <h5> ماذا بعد ؟  </h5>
+            <h4> ليزر  </h4>
 
-            <p>  بعد الاطلاع على الشروط والمميزات يمكن التقديم لدينا عبر بوابة التوظيف لدينا </p>
 
-            <a href="">بوابة التوظيف </a>
+            <p>يقدم مركز الرياض الطبي احدث التقنيات
+                    ويضم القسم كافة أجهزة الليزر الحديثة وأكثرها تطوراً وأماناً ويقدم خدمات:
+                    جلسات ليزر مع الرتوش للجسم كامل
+                    او لمنطقة محددة
+                    </p>
 
           </div>
 
@@ -528,28 +648,41 @@
             <div class="owl-carousel testimonials-carousel wow fadeInUp">
 
               <div class="testimonial-item">
-                <h3>قسم التغذية</h3>
-                <h4>.</h4>
+                <h3> نقص التغذية </h3>
+                <h4></h4>
                 <p>
-                    يؤدي إدمان الخمر إلى إتلاف خلايا المخ والإصابة المتكررة بالجلطات.
-                </p>
+
+                        يستخدم هذا المصطلح لوصف حالة الأشخاص الذين لا يحتوي ما يتناولونه من طعام على السعرات الحرارية (الطاقة) الكافية لتلبية الحد الأدنى من احتياجاتهم الفسيولوجية اللازمة لحياة نشيطة. ويوجد في الوقت الحاضر 1.02 مليار شخص يعانون نقص التغذية في مختلف أنحاء العالم، ومعظمهم من الدول النامية.
+
+
+                    </p>
               </div>
 
               <div class="testimonial-item">
-                <h3>قسم الجلدية</h3>
-                <h4>.</h4>
+                <h3>	التغذية غير المتوازنة </h3>
+                <h4></h4>
                 <p>
-                    يحتوي اللبن على الكالسيوم إضافةً إلى فيتامين(B1)، وفيتامين(B2).
-                </p>
+                        هي التغذية التي يتم فيها تناول أنواع معينة من المغذيات أكثر من الأخرى كالنشويات أو الدهون، فتظهر معها الأمراض المزمنة كالسمنة وأمراض القلب                </p>
               </div>
 
               <div class="testimonial-item">
-                <h3> قسم الاسنان </h3>
-                <h4>. </h4>
+                <h3> نصائح للبشرة  </h3>
+                <h4> </h4>
                 <p>
+                        من المعلومات الغير معروفه ان تناول الفواكه الحمضيه مثل الفراوله والكيوي والفواكه التي تحتوي على فيتامينC  تساعد على تحفيز نمو الكولاجين الذي يمنح البشره النضاره ويعمل على منع ظهور التجاعيد والخطوط الرفيعه بالوجه.
                 </p>
               </div>
 
+
+              <div class="testimonial-item">
+                    <h3> زيادة الوزن  </h3>
+                    <h4></h4>
+                    <p>
+
+                            •	إنّ النوّم غير الكافي ولفترات قصيرة يقلل من معدلات مادة اللبتين؛ وهي المسؤولة عن الإحساسِ في الشبع، ويزيد من مادة الجريلين الهرمون المسؤول عن الشعور بالجوع، لذلك يعمل هذا على زيادة الوزن.
+
+                        </p>
+                  </div>
 
 
             </div>
@@ -691,7 +824,7 @@
             <div class="form">
 
               <h4> للتواصل والاقتراحات </h4>
-              <p> . </p>
+              <p> يسعدنا تواصلكم </p>
               <form action="" method="post" role="form" class="contactForm">
                 <div class="form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="الآسم " data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
