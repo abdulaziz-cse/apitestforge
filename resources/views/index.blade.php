@@ -67,15 +67,14 @@
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
                 <li class="active"><a href="#intro">الرئسية</a></li>
+                <li class="active"><a href="#">حجز موعد </a></li>
                 <li><a href="#about">حول المركز</a></li>
                 <li><a href="#services">الاقسام الطبية</a></li>
                 <li><a href="#features">معلومات عن الاقسام</a></li>
                 <li><a href="#testimonials">معلومات طبية</a></li>
                 <li><a href="#faq"> الاسئلة  الشائعة </a></li>
-
-          <li><a href="">حجز موعد </a></li>
-          <li><a href=""> التوظيف </a></li>
-          <li><a href="#footer">اتصل بنا</a></li>
+                <li><a href=""> التوظيف </a></li>
+                <li><a href="#footer">اتصل بنا</a></li>
 
         </ul>
       </nav><!-- .main-nav -->
@@ -213,9 +212,11 @@
 
           <div class="col-lg-6">
             <div class="why-us-img">
-              <img src="img/smalllogo.png" alt="" class="img-fluid">
+              <img src="" alt="" class="img-fluid">
             </div>
           </div>
+
+
 
           <div class="col-lg-6">
             <div class="why-us-content">
@@ -374,12 +375,10 @@
     ============================-->
     <section id="features">
       <div class="container">
-
-
             <section id="D">
             <div class="row feature-item">
                     <div class="col-lg-6 wow fadeInUp">
-                      <img src="img/ss.png" class="img-fluid" alt="">
+                      <img src="" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
                       <h4>التجميل</h4>
@@ -421,7 +420,7 @@
 
         <div class="row feature-item mt-5 pt-5">
           <div class="col-lg-6 wow fadeInUp order-1 order-lg-2">
-            <img src="img/smalllogo.png" class="img-fluid" alt="">
+            <img src="" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
