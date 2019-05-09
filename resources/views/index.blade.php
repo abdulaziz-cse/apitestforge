@@ -60,7 +60,7 @@
       <div class="logo float-left">
         <a href="#header" class="scrollto"><img src="img/smalllogo.png" alt="" class="img-fluid"></a>
 
-        <h1 class="text-light"><a href="#intro" class="scrollto"> <span> </span></a> </h1>
+        <h1 class="text-light"><a href="#intro" class="scrollto"> <span></span></a> </h1>
 
       </div>
 
@@ -379,7 +379,7 @@
             <section id="D">
             <div class="row feature-item">
                     <div class="col-lg-6 wow fadeInUp">
-                      <img src="img/features-1.svg" class="img-fluid" alt="">
+                      <img src="img/ss.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
                       <h4>التجميل</h4>
