@@ -118,7 +118,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #1bb1dc;
+  background: #cc9933;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -363,6 +363,19 @@ h6 {
   font-family:myFirstFont;
   text-transform: uppercase;
   font-weight: 600;
+}
+
+.btn-trial a{
+	background-color: #cc9933;
+	border-radius: 30px;
+  color: #000000;
+	border: 1px solid #5FCF80;
+}
+
+.btn-trial a:hover, .btn-trial a:focus{
+	border: 0px solid #cc9933;
+	background-color: #cc9933;
+	color: #000000 !important;
 }
 
 .main-nav a:hover,
@@ -696,7 +709,7 @@ h6 {
 
 #services .title {
   margin-bottom: 15px;
-  font-size: 16px;
+  font-size: 1٦px;
   font-weight: lighter;
 
 }

@@ -66,17 +66,18 @@
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
+                <li class="btn-trial"><a href="">حجز موعد</a></li>
                 <li class="active"><a href="#intro">الرئسية</a></li>
-                <li class="active"><a href="#">حجز موعد </a></li>
                 <li><a href="#about">حول المركز</a></li>
                 <li><a href="#services">الاقسام الطبية</a></li>
-                <li><a href="#features">معلومات عن الاقسام</a></li>
+                <li><a href="#why-us">معلومات عن الاقسام</a></li>
                 <li><a href="#testimonials">معلومات طبية</a></li>
                 <li><a href="#faq"> الاسئلة  الشائعة </a></li>
                 <li><a href=""> التوظيف </a></li>
                 <li><a href="#footer">اتصل بنا</a></li>
 
         </ul>
+
       </nav><!-- .main-nav -->
 
     </div>
@@ -160,7 +161,7 @@
             <div class="box">
               <div class="icon" style="background: #fff0da;"><i class="fas fa-tooth" tyle="color: #e98e06;"></i>
               </div>
-              <h4 class="title"><a href="#w">قسم أسنان </a></h4>
+              <h4 class="title"><a href="#why-us">قسم أسنان </a></h4>
               <p class="description">
 
               </p>
@@ -170,14 +171,14 @@
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #e6fdfc;"><i class="fas fa-seedling"></i></div>
-              <h4 class="title"><a href="#B">قسم جلدية </a></h4>
+              <h4 class="title"><a href="#why-us">قسم جلدية </a></h4>
               <p class="description"></p>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #eafde7;"><i class="fas fa-smile-beam"></i> </div>
-              <h4 class="title"><a href="#D">قسم تجميل  </a></h4>
+              <h4 class="title"><a href="#why-us">قسم تجميل  </a></h4>
               <p class="description"></p>
             </div>
           </div>
@@ -186,7 +187,7 @@
             <div class="box">
               <div class="icon" style="background: #e1eeff;"><i class="fas fa-heart"></i></div>
 
-              <h4 class="title"><a href="#C">قسم طب أسرة </a></h4>
+              <h4 class="title"><a href="#why-us">قسم طب أسرة </a></h4>
               <p class="description"></p>
             </div>
           </div>
@@ -212,7 +213,8 @@
 
           <div class="col-lg-6">
             <div class="why-us-img">
-              <img src="" alt="" class="img-fluid">
+
+
             </div>
           </div>
 
@@ -221,10 +223,11 @@
           <div class="col-lg-6">
             <div class="why-us-content">
 
+
+
               <p>
               </p>
 
-              <section id="A">
               <div class="features wow bounceInUp clearfix">
                  <h4> أسنان  </h4>
 
@@ -261,13 +264,10 @@
 
                         </div>
                     </div>
-                </section>
-
                 <br>
                 <br>
                 <br>
 
-              <section id="B">
               <div class="features wow bounceInUp clearfix">
                 <h4> جلدية </h4>
                 <div class="faq-details">
@@ -301,20 +301,84 @@
               </div>
             </div>
         </div>
-              </section>
 
                 <br>
                 <br>
                 <br>
-              <section id="C">
-              <div class="features wow bounceInUp clearfix">
+                   <div class="features wow bounceInUp clearfix">
                   <h4> طب الاسرة </h4>
                   <p>
                         عيادة التغذية بمركز الرياض الطبي تضم أفضل أخصائيين التغذية الذين يعملون على تنظيم الغذاء للمريض وإجراء قياسات شاملة بواسطة أجهزة متخصصة لتحديد المشكلة الغذائية وبناء الخطة الغذائية المخصصة لكل فرد
                   </p>
                 </div>
 
-              </section>
+
+              <br>
+              <br>
+
+              <div class="features wow bounceInUp clearfix">
+                <h4> ليزر  </h4>
+                <div class="faq-details">
+                        <div class="panel-group" id="accordion">
+                <div class="panel panel-default">
+                        <div class="panel-heading">
+                          <h4 class="check-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion" href="#check4">
+                                                        <span class="acc-icons"></span>يقدم مركز الرياض الطبي احدث التقنيات
+                                                        ويضم القسم كافة أجهزة الليزر الحديثة وأكثرها تطوراً وأماناً ويقدم خدمات
+                                                    </a>
+                                                </h4>
+                        </div>
+                        <div id="check4" class="panel-collapse collapse">
+                          <div class="panel-body">
+                            <p>
+                                <ul>جلسات ليزر مع الرتوش للجسم كامل او لمنطقة محددة</ul>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+              </div>
+
+              <br>
+              <br>
+
+                        <div class="features wow bounceInUp clearfix">
+                          <h4>التجميل</h4>
+                          <div class="faq-details">
+                         <div class="panel-group" id="accordion">
+                          <!-- Panel Default -->
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="check-title">
+              <a data-toggle="collapse" data-parent="#accordion" href="#check3">
+                     <span class="acc-icons"></span>يقدم مركز الرياض الطبي في هذا القسم احدث التقنيات لخدمات التجميل للجميع على  ايدي أمهر الأطباء والممرضين مثل
+
+              </a>
+              </h4>
+                    </div>
+                    <div id="check3" class="panel-collapse collapse ">
+                      <div class="panel-body">
+                            <p>
+                                    <ul>حقن فيلر</ul>
+                                    <ul>حقن بوتوكس</ul>
+                                    <ul>تقنية البلازما للوجه</ul>
+                                    <ul>الديرما رولر</ul>
+                                    <ul>حقنة التفتيح</ul>
+                                    <ul>جلسة تقشير الوجه</ul>
+                                </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+                  <!-- End Panel Default -->
+
+                        </div>
+
+
 
             </div>
 
@@ -323,6 +387,7 @@
         </div>
 
       </div>
+    </section>
 
       <div class="container">
         <div class="row counters">
@@ -368,241 +433,9 @@
         </div>
 
       </div>
-    </section><!-- #call-to-action -->
+    </section>
 
-    <!--==========================
-      Features Section
-    ============================-->
-    <section id="features">
-      <div class="container">
-            <section id="D">
-            <div class="row feature-item">
-                    <div class="col-lg-6 wow fadeInUp">
-                      <img src="" class="img-fluid" alt="">
-                    </div>
-                    <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
-                      <h4>التجميل</h4>
-                      <div class="faq-details">
-                     <div class="panel-group" id="accordion">
-                      <!-- Panel Default -->
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="check-title">
-					<a data-toggle="collapse" data-parent="#accordion" href="#check3">
-                 <span class="acc-icons"></span>يقدم مركز الرياض الطبي في هذا القسم احدث التقنيات لخدمات التجميل للجميع على  ايدي أمهر الأطباء والممرضين مثل
 
-					</a>
-					</h4>
-                </div>
-                <div id="check3" class="panel-collapse collapse ">
-                  <div class="panel-body">
-                        <p>
-                                <ul>حقن فيلر</ul>
-                                <ul>حقن بوتوكس</ul>
-                                <ul>تقنية البلازما للوجه</ul>
-                                <ul>الديرما رولر</ul>
-                                <ul>حقنة التفتيح</ul>
-                                <ul>جلسة تقشير الوجه</ul>
-                            </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-        </div>
-
-              <!-- End Panel Default -->
-
-                    </div>
-                  </div>
-            </section>
-
-        <section id="E">
-
-        <div class="row feature-item mt-5 pt-5">
-          <div class="col-lg-6 wow fadeInUp order-1 order-lg-2">
-            <img src="" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-            <h4> ليزر  </h4>
-            <div class="faq-details">
-                    <div class="panel-group" id="accordion">
-            <div class="panel panel-default">
-                    <div class="panel-heading">
-                      <h4 class="check-title">
-                                                <a data-toggle="collapse" data-parent="#accordion" href="#check4">
-                                                    <span class="acc-icons"></span>يقدم مركز الرياض الطبي احدث التقنيات
-                                                    ويضم القسم كافة أجهزة الليزر الحديثة وأكثرها تطوراً وأماناً ويقدم خدمات
-                                                </a>
-                                            </h4>
-                    </div>
-                    <div id="check4" class="panel-collapse collapse">
-                      <div class="panel-body">
-                        <p>
-                            <ul>جلسات ليزر مع الرتوش للجسم كامل او لمنطقة محددة</ul>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-            </div>
-          </div>
-
-        </div>
-        </section>
-    </section><!-- #about -->
-
-    <!--==========================
-      Portfolio Section
-    ============================-->
-    <section id="portfolio" class="section-bg">
-      <div class="container">
-
-        <header class="section-header">
-          <h3 class="section-title">  صور </h3>
-        </header>
-
-        <div class="row">
-          <div class="col-lg-12">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app"></li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row portfolio-container">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/app1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">App 1</a></h4>
-                <p>App</p>
-                <div>
-                  <a href="img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Web 3</a></h4>
-                <p>Web</p>
-                <div>
-                  <a href="img/portfolio/web3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/app2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">App 2</a></h4>
-                <p>App</p>
-                <div>
-                  <a href="img/portfolio/app2.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/card2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Card 2</a></h4>
-                <p>Card</p>
-                <div>
-                  <a href="img/portfolio/card2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/web2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Web 2</a></h4>
-                <p>Web</p>
-                <div>
-                  <a href="img/portfolio/web2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/app3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">App 3</a></h4>
-                <p>App</p>
-                <div>
-                  <a href="img/portfolio/app3.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/card1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Card 1</a></h4>
-                <p>Card</p>
-                <div>
-                  <a href="img/portfolio/card1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 1" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card" data-wow-delay="0.1s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/card3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Card 3</a></h4>
-                <p>Card</p>
-                <div>
-                  <a href="img/portfolio/card3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 3" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="#">Web 1</a></h4>
-                <p>Web</p>
-                <div>
-                  <a href="img/portfolio/web1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
-                  <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- #portfolio -->
 
     <!--==========================
       Clients Section
