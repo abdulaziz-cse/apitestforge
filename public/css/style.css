@@ -272,11 +272,6 @@ h6 {
 
 }
 
-.header .logo img {
-  display:none;
-
-
-}
 
 .main-pages {
   margin-top: 60px;
@@ -348,7 +343,7 @@ h6 {
 .main-nav > ul > li {
   position: relative;
   white-space: nowrap;
-  float: left;
+  float: right;
 }
 
 .main-nav a {

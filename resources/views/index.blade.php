@@ -66,16 +66,16 @@
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
+                <li class="active"><a href="#intro">الرئسية</a></li>
+                <li><a href="#about">حول المركز</a></li>
+                <li><a href="#services">الاقسام الطبية</a></li>
+                <li><a href="#features">معلومات عن الاقسام</a></li>
+                <li><a href="#testimonials">معلومات طبية</a></li>
+                <li><a href="#faq"> الاسئلة  الشائعة </a></li>
 
-          <li><a href="#footer">اتصل بنا</a></li>
           <li><a href="">حجز موعد </a></li>
           <li><a href=""> التوظيف </a></li>
-          <li><a href="#faq"> الاسئلة  الشائعة </a></li>
-          <li><a href="#testimonials">معلومات طبية</a></li>
-          <li><a href="#features">معلومات عن الاقسام</a></li>
-          <li><a href="#services">الاقسام الطبية</a></li>
-          <li><a href="#about">حول المركز</a></li>
-          <li class="active"><a href="#intro">الرئسية</a></li>
+          <li><a href="#footer">اتصل بنا</a></li>
 
         </ul>
       </nav><!-- .main-nav -->
