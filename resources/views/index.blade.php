@@ -226,131 +226,94 @@
               <section id="A">
               <div class="features wow bounceInUp clearfix">
                  <h4> أسنان  </h4>
-                <p> في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل </p>
 
+                          <div class="faq-details">
+                            <div class="panel-group" id="accordion">
+                                <!-- Panel Default -->
+                              <div class="panel panel-default">
+                                <div class="panel-heading">
+                                  <h4 class="check-title">
+                                     <a data-toggle="collapse" data-parent="#accordion" href="#check1">
 
-                <ul>
-                    <li>
-                            	اشعة اسنان
-                    </li>
+                                   <span class="acc-icons"></span>  في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل
+                                    </a>
+                                   </h4>
+                                </div>
+                                <div id="check1" class="panel-collapse collapse in">
+                                  <div class="panel-body">
+                                    <p>
+                                        <ul> اشعة اسنان</ul>
+                                        <ul>علاج اللثة</ul>
+                                        <ul>تبطين طقم اسنان كامل</ul>
+                                        <ul>حافظ مسافة جهة واحدة</ul>
+                                        <ul>طقم اسنان كامل ( علوي – سفلي)</ul>
+                                        <ul>تلبيسة بلاستيك امامي</ul>
+                                        <ul>فنير المشاهير</ul>
+                                        <ul>تنظيف الجير</ul>
+                                        <ul>تبييض اسنان بجهاز Z6 دورتين</ul>
 
-                </ul>
+                                    </p>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
 
-                <ul>
-                    <li>
-                            	تبطين طقم اسنان كامل
-                    </li>
+                        </div>
+                    </div>
+                </section>
 
-                </ul>
+                <br>
+                <br>
+                <br>
 
-                <ul>
-                    <li>
-                            	علاج اللثة
-                    </li>
-
-                </ul>
-
-                <ul>
-                    <li>
-                            	حافظ مسافة جهة واحدة
-                    </li>
-                </ul>
-
-                <ul>
-                    <li>
-                            	طقم اسنان كامل ( علوي – سفلي)
-                    </li>
-                </ul>
-
-                <ul>
-
-                    <li>
-                            	تلبيسة بلاستيك امامي
-                    </li>
-                            </ul>
-
-                            <ul>
-                    <li>
-                            	فنير المشاهير
-                    </li>
-                </ul>
-
-                <ul>
-                    <li>
-                            	تنظيف الجير
-                    </li>
-                </ul>
-
-                <ul>
-                    <li>
-                            	تبييض اسنان بجهاز Z6 دورتين
-                    </li>
-
-                </ul>
-
-
-
-
-
-            </div>
-              </section>
               <section id="B">
-
               <div class="features wow bounceInUp clearfix">
                 <h4> جلدية </h4>
-                <p> يقدم لكم مركز الرياض الطبي فريق عمل متكامل من الاطباء والأخصائيين والاستشاريين المتميزين في عيادات الجلدية والتي تحتوي على الخدمات التالية </p>
+                <div class="faq-details">
+                <div class="panel-group" id="accordion">
+                <!-- Panel Default -->
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="check-title">
+                     <a data-toggle="collapse" data-parent="#accordion" href="#check2">
+                    <span class="acc-icons"></span>  يقدم لكم مركز الرياض الطبي فريق عمل متكامل من الاطباء والأخصائيين والاستشاريين المتميزين في عيادات الجلدية والتي تحتوي على الخدمات التالية
 
+                            </a>
+                    </h4>
+                  </div>
+                  <div id="check2" class="panel-collapse collapse">
+                    <div class="panel-body">
+                      <p>
+                        <ul>إزالة الزوائد الجلدية – الثاليل</ul>
+                        <ul>الاكزيما البنيويه</ul>
+                        <ul>الثاليل التناسليه</ul>
+                        <ul>الطفح الجلدي</ul>
+                        <ul>تساقط الشعر</ul>
+                        <ul>الحكة الشديدة</ul>
+                        <ul>الطفح الجلدي</ul>
 
-                        <ul>
-                        <li>
-                        إزالة الزوائد الجلدية – الثاليل
-                         </li>
-                        </ul>
-
-                        <ul>
-                        <li>
-                                    الاكزيما البنيويه
-                       </li>
-                        </ul>
-
-                        <ul>
-                        <li>
-                              علاج اللثة
-                        </li>
-                        </ul>
-
-                        <ul>
-                        <li>
-                                    الثاليل التناسليه
-                        </li>
-                        </ul>
-
-                        <ul>
-                        <li>
-                                الطفح الجلدي
-                       </li>
-                        </ul>
-
-                     <ul>
-                      <li>
-                                         تساقط الشعر
-                      </li>
-                    </ul>
-
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- End Panel Default -->
               </div>
+            </div>
+        </div>
               </section>
 
+                <br>
+                <br>
+                <br>
               <section id="C">
               <div class="features wow bounceInUp clearfix">
                   <h4> طب الاسرة </h4>
                   <p>
-
                         عيادة التغذية بمركز الرياض الطبي تضم أفضل أخصائيين التغذية الذين يعملون على تنظيم الغذاء للمريض وإجراء قياسات شاملة بواسطة أجهزة متخصصة لتحديد المشكلة الغذائية وبناء الخطة الغذائية المخصصة لكل فرد
                   </p>
                 </div>
 
               </section>
-
 
             </div>
 
@@ -411,57 +374,48 @@
     ============================-->
     <section id="features">
       <div class="container">
-        <div class="row feature-item">
-          <div class="col-lg-6 wow fadeInUp">
-            <img src="img/smalllogo.png" class="img-fluid" alt="">
-          </div>
-
-          <section id="D">
-          <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
-            <h4>  التجميل   </h4>
 
 
-            <p>
-                    في هذا القسم يتم تقديم خدمات في مجال طب التجميل لجميع افراد المجتمع على ايدي أمهر الأطباء والممرضين مثل
+            <section id="D">
+            <div class="row feature-item">
+                    <div class="col-lg-6 wow fadeInUp">
+                      <img src="img/features-1.svg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
+                      <h4>التجميل</h4>
+                      <div class="faq-details">
+                     <div class="panel-group" id="accordion">
+                      <!-- Panel Default -->
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="check-title">
+					<a data-toggle="collapse" data-parent="#accordion" href="#check3">
+                 <span class="acc-icons"></span>يقدم مركز الرياض الطبي في هذا القسم احدث التقنيات لخدمات التجميل للجميع على  ايدي أمهر الأطباء والممرضين مثل
 
-              <ul>
-                <li>
-                            حقن فيلر
-                </li>
-              </ul>
-              <ul>
-                <li>
-                            حقن بوتوكس
-
-                </li>
-            </ul>
-
-            <ul>
-                <li>
-                           تقنية البلازما للوجه
-                </li>
-            </ul>
-<ul>
-                <li>
-                            الديرما رولر
-                </li>
-            </ul>
-<ul>
-                <li>
-                            حقنة التفتيح
-
-                </li>
-            </ul>
-<ul>
-                <li>
-                            جلسة تقشير الوجه
-               </li>
-              </ul>
-            </p>
-
-          </div>
-          </section>
+					</a>
+					</h4>
+                </div>
+                <div id="check3" class="panel-collapse collapse ">
+                  <div class="panel-body">
+                        <p>
+                                <ul>حقن فيلر</ul>
+                                <ul>حقن بوتوكس</ul>
+                                <ul>تقنية البلازما للوجه</ul>
+                                <ul>الديرما رولر</ul>
+                                <ul>حقنة التفتيح</ul>
+                                <ul>جلسة تقشير الوجه</ul>
+                            </p>
+                  </div>
+                </div>
+              </div>
+            </div>
         </div>
+
+              <!-- End Panel Default -->
+
+                    </div>
+                  </div>
+            </section>
 
         <section id="E">
 
@@ -472,19 +426,31 @@
 
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
             <h4> ليزر  </h4>
-
-
-            <p>يقدم مركز الرياض الطبي احدث التقنيات
-                    ويضم القسم كافة أجهزة الليزر الحديثة وأكثرها تطوراً وأماناً ويقدم خدمات:
-                    جلسات ليزر مع الرتوش للجسم كامل
-                    او لمنطقة محددة
-                    </p>
-
+            <div class="faq-details">
+                    <div class="panel-group" id="accordion">
+            <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="check-title">
+                                                <a data-toggle="collapse" data-parent="#accordion" href="#check4">
+                                                    <span class="acc-icons"></span>يقدم مركز الرياض الطبي احدث التقنيات
+                                                    ويضم القسم كافة أجهزة الليزر الحديثة وأكثرها تطوراً وأماناً ويقدم خدمات
+                                                </a>
+                                            </h4>
+                    </div>
+                    <div id="check4" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <p>
+                            <ul>جلسات ليزر مع الرتوش للجسم كامل او لمنطقة محددة</ul>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
           </div>
 
         </div>
         </section>
-      </div>
     </section><!-- #about -->
 
     <!--==========================
