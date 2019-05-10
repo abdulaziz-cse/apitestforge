@@ -66,8 +66,8 @@
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
-                <li class="btn-trial"><a href="">حجز موعد</a></li>
                 <li class="active"><a href="#intro">الرئسية</a></li>
+                <li class="btn-trial"><a href="">حجز موعد</a></li>
                 <li><a href="#about">حول المركز</a></li>
                 <li><a href="#services">الاقسام الطبية</a></li>
                 <li><a href="#why-us">معلومات عن الاقسام</a></li>
@@ -216,21 +216,15 @@
 
 
             </div>
-          </div>
-
-
+        </div>
 
           <div class="col-lg-6">
             <div class="why-us-content">
-
-
-
-              <p>
-              </p>
+              <p> </p>
 
               <div class="features wow bounceInUp clearfix">
                  <h4> أسنان  </h4>
-
+                 <div class="faq-area area-padding">
                           <div class="faq-details">
                             <div class="panel-group" id="accordion">
                                 <!-- Panel Default -->
@@ -239,7 +233,7 @@
                                   <h4 class="check-title">
                                      <a data-toggle="collapse" data-parent="#accordion" href="#check1">
 
-                                   <span class="acc-icons"></span>  في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل
+                                   <span class="acc-icons">  في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل </span>ف
                                     </a>
                                    </h4>
                                 </div>
@@ -264,12 +258,13 @@
 
                         </div>
                     </div>
-                <br>
-                <br>
+                </div>
+
                 <br>
 
               <div class="features wow bounceInUp clearfix">
                 <h4> جلدية </h4>
+                <div class="faq-area area-padding">
                 <div class="faq-details">
                 <div class="panel-group" id="accordion">
                 <!-- Panel Default -->
@@ -277,7 +272,7 @@
                   <div class="panel-heading">
                     <h4 class="check-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                    <span class="acc-icons"></span>  يقدم لكم مركز الرياض الطبي فريق عمل متكامل من الاطباء والأخصائيين والاستشاريين المتميزين في عيادات الجلدية والتي تحتوي على الخدمات التالية
+                    <span class="acc-icons">يقدم لكم مركز الرياض الطبي فريق عمل متكامل من الاطباء والأخصائيين والاستشاريين المتميزين في عيادات الجلدية والتي تحتوي على الخدمات التالية</span>
 
                             </a>
                     </h4>
@@ -301,23 +296,48 @@
               </div>
             </div>
         </div>
+    </div>
 
                 <br>
-                <br>
-                <br>
+
                    <div class="features wow bounceInUp clearfix">
                   <h4> طب الاسرة </h4>
-                  <p>
-                        عيادة التغذية بمركز الرياض الطبي تضم أفضل أخصائيين التغذية الذين يعملون على تنظيم الغذاء للمريض وإجراء قياسات شاملة بواسطة أجهزة متخصصة لتحديد المشكلة الغذائية وبناء الخطة الغذائية المخصصة لكل فرد
-                  </p>
+                  <div class="faq-area area-padding">
+                  <div class="faq-details">
+                        <div class="panel-group" id="accordion">
+                        <!-- Panel Default -->
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                            <h4 class="check-title">
+                             <a data-toggle="collapse" data-parent="#accordion" href="#check5">
+                            <span class="acc-icons">                            عيادة التغذية بمركز الرياض الطبي تضم أفضل أخصائيين التغذية الذين يعملون على تنظيم الغذاء للمريض وإجراء قياسات شاملة بواسطة أجهزة متخصصة لتحديد المشكلة الغذائية وبناء الخطة الغذائية المخصصة لكل فرد
+                                </span>
+
+                                    </a>
+                            </h4>
+                          </div>
+                          <div id="check5" class="panel-collapse collapse">
+                            <div class="panel-body">
+                              <p>
+
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                        <!-- End Panel Default -->
+                      </div>
+                    </div>
+
                 </div>
 
+            </div>
 
-              <br>
               <br>
 
               <div class="features wow bounceInUp clearfix">
                 <h4> ليزر  </h4>
+                <div class="faq-area area-padding">
+
                 <div class="faq-details">
                         <div class="panel-group" id="accordion">
                 <div class="panel panel-default">
@@ -340,12 +360,14 @@
                     </div>
                 </div>
               </div>
+            </div>
 
-              <br>
               <br>
 
                         <div class="features wow bounceInUp clearfix">
                           <h4>التجميل</h4>
+                          <div class="faq-area area-padding">
+
                           <div class="faq-details">
                          <div class="panel-group" id="accordion">
                           <!-- Panel Default -->
@@ -379,14 +401,17 @@
                         </div>
 
 
+                    </div>
+                </div>
+
 
             </div>
 
-          </div>
-
         </div>
 
-      </div>
+    </div>
+
+
     </section>
 
       <div class="container">
