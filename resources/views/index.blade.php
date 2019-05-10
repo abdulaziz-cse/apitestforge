@@ -666,8 +666,8 @@
                   </div>
 
                   <div class="social-links">
-                        <a href="http://twitter.com/rmcr8500" class="twitter"><i class="fab fa-twitter"></i>   </a>
-                        <a href="https://www.instagram.com/rmcr8500/" class="facebook"><i class="fab fa-instagram"></i></a>
+                        <a href="http://twitter.com/rmcr8500" ><i class="fab fa-twitter"></i>   </a>
+                        <a href="https://www.instagram.com/rmcr8500/" ><i class="fab fa-instagram"></i></a>
                       </div>
 
                 </div>
