@@ -226,10 +226,10 @@
 
           <div class="col-lg-6">
             <div class="why-us-img">
-
-
-            </div>
+          </div>
         </div>
+
+
 
           <div class="col-lg-6">
             <div class="why-us-content">
@@ -749,6 +749,7 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
+
 
 </body>
 </html>
