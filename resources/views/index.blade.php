@@ -60,7 +60,7 @@
       <div class="logo float-left">
         <a href="#header" class="scrollto"><img src="img/smalllogo.png" alt="" class="img-fluid"></a>
 
-        <h1 class="text-light"><a href="#intro" class="scrollto"> <span></span></a> </h1>
+        <h1 class="text-light"><a href="#intro" class="scrollto"> <span>  </span> </a> </h1>
 
       </div>
 
@@ -90,10 +90,17 @@
   ============================-->
   <section id="intro" class="clearfix">
     <div class="container d-flex h-100">
+
       <div class="row justify-content-center align-self-center">
         <div class="col-md-6 intro-info order-md-first order-last">
-          <h2> ! مركز طبي و <span>أكثَر</span></h2>
+          <h2> ! مركز طبي و <span>أكثَر</span>
+
+        </h2>
+        <h2>                <i class="fas fa-headphones-alt"></i> 920008500
+        </h2>
+
           <div>
+
             <a href="#about" class="btn-get-started scrollto">جولة</a>
           </div>
         </div>
