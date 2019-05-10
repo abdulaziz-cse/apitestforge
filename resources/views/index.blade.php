@@ -27,8 +27,7 @@
 
 
 
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-  <!-- Main Stylesheet File -->
+  <link href="/css/fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->  <!-- Main Stylesheet File -->
 
 
 </head>
@@ -245,7 +244,8 @@
                                 <!-- Panel Default -->
                               <div class="panel panel-default">
                                     <i class="fas fa-chevron-right"></i>
-                                <div class="panel-heading">
+
+                                    <div class="panel-heading">
                                   <h4 class="check-title">
                                      <a data-toggle="collapse" data-parent="#accordion" href="#check1">
                                   في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل ف
@@ -664,6 +664,11 @@
 
                     </p>
                   </div>
+
+                  <div class="social-links">
+                        <a href="http://twitter.com/rmcr8500" class="twitter"><i class="fab fa-twitter"></i>   </a>
+                        <a href="https://www.instagram.com/rmcr8500/" class="facebook"><i class="fab fa-instagram"></i></a>
+                      </div>
 
                 </div>
 

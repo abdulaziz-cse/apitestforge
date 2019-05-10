@@ -1362,7 +1362,7 @@ h6 {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #1bb1dc;
+  background: #cc9933;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1375,7 +1375,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #0a98c0;
+  background: #000000;
   color: #fff;
 }
 
