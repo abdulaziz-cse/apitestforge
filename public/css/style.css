@@ -91,7 +91,7 @@ h6 {
   font-family: "fontawesome", Courier, monospace;
   font-size: 24px;
   height: 40px;
-  left: -51px;
+  left: -81px;
   line-height: 34px;
   position: absolute;
   text-align: center;
@@ -457,6 +457,10 @@ h6 {
 
 /* Mobile Navigation */
 
+.btn-trial {
+  padding-left: 20px;
+
+}
 .mobile-nav {
   position: fixed;
   top: 0;
@@ -1342,7 +1346,7 @@ h6 {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-family: myFirstFont;
-  color: #413e66;
+  color: #cc9933;
   font-weight: 400;
   text-transform: uppercase;
 }

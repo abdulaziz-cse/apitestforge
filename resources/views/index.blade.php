@@ -150,14 +150,7 @@
 
         <div class="row">
 
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="box">
-              <div class="icon" style="background: #fceef3;">  <i class="fas fa-syringe"></i> </div>
-              <h4 class="title"><a href="#E">قسم ليزر </a></h4>
-              <p class="description"></p>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
+              <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #fff0da;"><i class="fas fa-tooth" tyle="color: #e98e06;"></i>
               </div>
@@ -169,12 +162,33 @@
           </div>
 
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+                <div class="box">
+                  <div class="icon" style="background: #e6fdfc;"><i class="fas fa-seedling"></i></div>
+                  <h4 class="title"><a href="#why-us">قسم جلدية </a></h4>
+                  <p class="description"></p>
+                </div>
+              </div>
+
+              <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+                    <div class="box">
+                      <div class="icon" style="background: #e1eeff;"><i class="fas fa-heart"></i></div>
+
+                      <h4 class="title"><a href="#why-us">قسم طب أسرة </a></h4>
+                      <p class="description"></p>
+                    </div>
+                  </div>
+
+          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
-              <div class="icon" style="background: #e6fdfc;"><i class="fas fa-seedling"></i></div>
-              <h4 class="title"><a href="#why-us">قسم جلدية </a></h4>
+              <div class="icon" style="background: #fceef3;">  <i class="fas fa-syringe"></i> </div>
+              <h4 class="title"><a href="#E">قسم ليزر </a></h4>
               <p class="description"></p>
             </div>
           </div>
+
+
+
+
           <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon" style="background: #eafde7;"><i class="fas fa-smile-beam"></i> </div>
@@ -183,14 +197,7 @@
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
-            <div class="box">
-              <div class="icon" style="background: #e1eeff;"><i class="fas fa-heart"></i></div>
 
-              <h4 class="title"><a href="#why-us">قسم طب أسرة </a></h4>
-              <p class="description"></p>
-            </div>
-          </div>
 
 
         </div>
@@ -227,15 +234,17 @@
                  <div class="faq-area area-padding">
                           <div class="faq-details">
                             <div class="panel-group" id="accordion">
+
                                 <!-- Panel Default -->
                               <div class="panel panel-default">
+                                    <i class="fas fa-chevron-right"></i>
                                 <div class="panel-heading">
                                   <h4 class="check-title">
                                      <a data-toggle="collapse" data-parent="#accordion" href="#check1">
-
-                                   <span class="acc-icons">  في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل </span>ف
+                                  في هذا القسم يتم تقديم خدمات في مجال طب الاسنان لجميع افراد الاسرة على ايدي أمهر الأطباء والممرضين مثل ف
                                     </a>
                                    </h4>
+
                                 </div>
                                 <div id="check1" class="panel-collapse collapse in">
                                   <div class="panel-body">
@@ -269,10 +278,13 @@
                 <div class="panel-group" id="accordion">
                 <!-- Panel Default -->
                 <div class="panel panel-default">
+                        <i class="fas fa-chevron-right"></i>
                   <div class="panel-heading">
                     <h4 class="check-title">
                      <a data-toggle="collapse" data-parent="#accordion" href="#check2">
-                    <span class="acc-icons">يقدم لكم مركز الرياض الطبي فريق عمل متكامل من الاطباء والأخصائيين والاستشاريين المتميزين في عيادات الجلدية والتي تحتوي على الخدمات التالية</span>
+                        يقدم لكم مركز الرياض الطبي فريق عمل متكامل من الاطباء والأخصائيين والاستشاريين المتميزين في عيادات الجلدية والتي تحتوي على الخدمات التالية
+
+
 
                             </a>
                     </h4>
@@ -307,11 +319,12 @@
                         <div class="panel-group" id="accordion">
                         <!-- Panel Default -->
                         <div class="panel panel-default">
+                                <i class="fas fa-chevron-right"></i>
                           <div class="panel-heading">
                             <h4 class="check-title">
                              <a data-toggle="collapse" data-parent="#accordion" href="#check5">
-                            <span class="acc-icons">                            عيادة التغذية بمركز الرياض الطبي تضم أفضل أخصائيين التغذية الذين يعملون على تنظيم الغذاء للمريض وإجراء قياسات شاملة بواسطة أجهزة متخصصة لتحديد المشكلة الغذائية وبناء الخطة الغذائية المخصصة لكل فرد
-                                </span>
+                                                  عيادة التغذية بمركز الرياض الطبي تضم أفضل أخصائيين التغذية الذين يعملون على تنظيم الغذاء للمريض وإجراء قياسات شاملة بواسطة أجهزة متخصصة لتحديد المشكلة الغذائية وبناء الخطة الغذائية المخصصة لكل فرد
+
 
                                     </a>
                             </h4>
@@ -341,10 +354,11 @@
                 <div class="faq-details">
                         <div class="panel-group" id="accordion">
                 <div class="panel panel-default">
+                        <i class="fas fa-chevron-right"></i>
                         <div class="panel-heading">
                           <h4 class="check-title">
                                                     <a data-toggle="collapse" data-parent="#accordion" href="#check4">
-                                                        <span class="acc-icons"></span>يقدم مركز الرياض الطبي احدث التقنيات
+                                                  يقدم مركز الرياض الطبي احدث التقنيات
                                                         ويضم القسم كافة أجهزة الليزر الحديثة وأكثرها تطوراً وأماناً ويقدم خدمات
                                                     </a>
                                                 </h4>
@@ -372,10 +386,11 @@
                          <div class="panel-group" id="accordion">
                           <!-- Panel Default -->
                   <div class="panel panel-default">
+                        <i class="fas fa-chevron-right"></i>
                     <div class="panel-heading">
                       <h4 class="check-title">
               <a data-toggle="collapse" data-parent="#accordion" href="#check3">
-                     <span class="acc-icons"></span>يقدم مركز الرياض الطبي في هذا القسم احدث التقنيات لخدمات التجميل للجميع على  ايدي أمهر الأطباء والممرضين مثل
+                يقدم مركز الرياض الطبي في هذا القسم احدث التقنيات لخدمات التجميل للجميع على  ايدي أمهر الأطباء والممرضين مثل
 
               </a>
               </h4>
