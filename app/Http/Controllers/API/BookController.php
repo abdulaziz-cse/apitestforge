@@ -32,7 +32,7 @@ public function store(Request $request)
         return $this->sendError('error validation', $validator->errors());
     }
     $book = Post::create($input);
-    return $this->sendResponse($book->toArray(), 'Post  created succesfully');
+    return $this->sendResponse($book->toArray(), 'Posts  created succesfully');
 
 }
 
