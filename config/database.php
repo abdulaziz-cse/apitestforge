@@ -48,7 +48,7 @@ return [
             'username' => env('DB_USERNAME', 'b29f2c7a100096'),
             'password' => env('DB_PASSWORD', 'acae0a82'),
             'unix_socket' => env('DB_SOCKET', ''),
-            'charset' => 'AES-128-CBC',
+            'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
             'prefix' => '',
             'prefix_indexes' => true,
