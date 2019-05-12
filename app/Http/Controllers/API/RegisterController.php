@@ -12,7 +12,6 @@ class RegisterController extends BaseController
 
 public function register(Request $request)
 {
-    # code...
 
 
     $validator =    Validator::make($request->all(), [
@@ -22,7 +21,6 @@ public function register(Request $request)
     'c_password'=> 'required|same:password',
     ] );
     if ($validator -> fails()) {
-        # code...
         return $this->sendError('error validation', $validator->errors());
     }
     $input = $request->all();
