@@ -14,6 +14,7 @@ public function register(Request $request)
 {
     # code...
 
+
     $validator =    Validator::make($request->all(), [
     'name'=> 'required',
     'email'=> 'required|email',
